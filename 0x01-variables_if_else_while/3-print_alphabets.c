@@ -12,10 +12,12 @@ int main(void)
 	char cap='A';
 		while(low <= 'z'){
 		putchar(low);
+		low++;
 		}
 		while(cap <= 'Z'){
-			putchar(low);  
-
+			putchar(cap);
+		      cap++;
 		}
+		putchar('\n');
 		return 0;
 }
