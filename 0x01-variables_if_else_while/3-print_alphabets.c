@@ -10,16 +10,16 @@ int main(void)
 {
 	char low = 'a';
 	char cap = 'A';
-		while(low <= 'z')
+		while (low <= 'z')
 		{
 		putchar(low);
 		low++;
 		}
-		while(cap <= 'Z')
+		while (cap <= 'Z')
 		{
 			putchar(cap);
 		      cap++;
 		}
 		putchar('\n');
-		return 0;
+		return (0);
 }
