@@ -2,9 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* mainn - Entry       
-* Return: Always 0 (Success)                                                                                                                      
-*/ 
+ *  * main - Entry point
+ *   *
+ *    * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char low, e, q;
