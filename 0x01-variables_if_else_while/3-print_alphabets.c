@@ -8,13 +8,15 @@
  */
 int main(void)
 {
-	char low='a';
-	char cap='A';
-		while(low <= 'z'){
+	char low = 'a';
+	char cap = 'A';
+		while(low <= 'z')
+		{
 		putchar(low);
 		low++;
 		}
-		while(cap <= 'Z'){
+		while(cap <= 'Z')
+		{
 			putchar(cap);
 		      cap++;
 		}
