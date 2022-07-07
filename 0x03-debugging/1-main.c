@@ -1,10 +1,7 @@
 #include <stdio.h>
 
-
-
 /**
  *  * main - creates an infinite loop.
- *
  *   * Return: 0
  */
 
