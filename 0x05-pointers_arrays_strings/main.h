@@ -1,16 +1,20 @@
-#ifndef HEADER_FILE
+#ifndef MAIN_H
 
-#define HEADER_FILE
+#define MAIN_H
+
+#include <stdlib.h>
+
+
+
+int _putchar(char c);
 
 void reset_to_98(int *n);
 
 void swap_int(int *a, int *b);
 
-int _strlen(char *s);
+size_t _strlen(const char *str);
 
 void _puts(char *str);
-
-int _putchar(char c);
 
 void print_rev(char *s);
 
@@ -18,12 +22,8 @@ void puts2(char *str);
 
 void puts_half(char *str);
 
-void print_array(int *a, int n);
-
 char *_strcpy(char *dest, char *src);
 
-void rev_string(char *s);
-
-
+void puts_half(char *str);
 
 #endif
