@@ -1,7 +1,7 @@
 0x07. C - Even more pointers, arrays and strings
 ================================================
 
--   By Julien Barbier
+-   BY Tiberius mogendi Nyaega
 
 Concepts
 --------
