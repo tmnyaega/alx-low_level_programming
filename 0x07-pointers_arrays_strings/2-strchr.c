@@ -5,7 +5,6 @@
  * _strchr - locates a char in a string
  * @s: string to be searched
  * @c: char to be checked
- *
  * Return: pointer to the first occurence of c in s
  */
 
